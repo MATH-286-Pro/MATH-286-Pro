@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ![2024-RMUL-Shanghai](Picture/2024-RMUL-Shanghai.jpg) -->
+
+<div align="center">
+  <img src="Picture/2024-RMUL-Shanghai.jpg" width="100%" height="auto" alt="2024-RMUL-Shanghai">
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MATH-286-Pro/MATH-286-Pro/output/github-contribution-grid-snake-dark.svg">
