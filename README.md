@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- ![2024-RMUL-Shanghai](Picture/2024-RMUL-Shanghai.jpg) -->
 
 <div align="center">
-  <img src="Picture/2024-RMUL-Shanghai.jpg" width="100%" height="auto" alt="2024-RMUL-Shanghai">
+  <img src="Picture/2024-RMUL-Shanghai.jpg" width="80%" height="auto" alt="2024-RMUL-Shanghai">
 </div>
 
 
