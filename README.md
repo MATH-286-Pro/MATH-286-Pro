@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <!-- ![2024-RMUL-Shanghai](Picture/2024-RMUL-Shanghai.jpg) -->
 
-<!-- <div align="center">
-  <img src="Picture/2024-RMUL-Shanghai.jpg" width="80%" height="auto" alt="2024-RMUL-Shanghai">
-</div> -->
-
-<div style="display: flex; justify-content: center;">
-  <div style="width: 90%; height: 300px; background-image: url('Picture/2024-RMUL-Shanghai.jpg'); background-size: cover; background-position: center 92%;"></div>
+<div align="center">
+  <img src="Picture/2024-RMUL-Shanghai-trimed.jpg" width="95%" height="auto" alt="2024-RMUL-Shanghai">
 </div>
+
+<!-- <div style="display: flex; justify-content: center;">
+  <div style="width: 90%; height: 300px; background-image: url('Picture/2024-RMUL-Shanghai.jpg'); background-size: cover; background-position: center 92%;"></div>
+</div> -->
 
 
 
