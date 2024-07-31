@@ -1,6 +1,5 @@
 ### Introduction  
 2020-2024 ZJUI META RoboMaster Team Mechanical Group member  
-I never regret to join this team
 <!--
 **MATH-286-Pro/MATH-286-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
