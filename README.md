@@ -1,6 +1,7 @@
 ### Introduction  
-- 2020-2024 ZJUI META RoboMaster Team Mechanical Group member  
-- 2024-now EPFL Master of Mechanical Engieering
+- 2020-2024 ZJUI META RoboMaster Team Mechanical Group member
+- 2020-2024 B.S. in Mechanical Engineering in Zhejiang University (ZJU)
+- 2024-now M.S. in Mechanical Engineering (Automation and System) in EPFL
 <!--
 **MATH-286-Pro/MATH-286-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
