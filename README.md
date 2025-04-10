@@ -1,7 +1,8 @@
 ### Introduction  
-- 2020-2024 ZJUI META RoboMaster Team Mechanical Group member
-- 2020-2024 B.S. in Mechanical Engineering in Zhejiang University (ZJU)
 - 2024-now M.S. in Mechanical Engineering (Automation and System) in EPFL
+- 2020-2024 B.S. in Mechanical Engineering in Zhejiang University (ZJU)
+- 2020-2024 ZJUI META RoboMaster Team Mechanical Group member
+
 <!--
 **MATH-286-Pro/MATH-286-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,12 +29,14 @@ Here are some ideas to get you started:
 </div> -->
 
 
-
+<!-- 小蛇 -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MATH-286-Pro/MATH-286-Pro/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MATH-286-Pro/MATH-286-Pro/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MATH-286-Pro/MATH-286-Pro/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 <!--START_SECTION:waka-->
 
