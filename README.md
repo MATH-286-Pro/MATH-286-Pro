@@ -36,4 +36,21 @@ Here are some ideas to get you started:
 </picture>
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 09 October 2024 - To: 08 April 2025
+
+Total Time: 306 hrs 40 mins
+
+Python         220 hrs 47 mins ██████████████████░░░░░░░   71.91 %
+Markdown       52 hrs 5 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+C++            9 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+C              7 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Git            4 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Text           1 hr 56 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+CMake          1 hr 43 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+CSV            1 hr 36 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Git Config     1 hr 28 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+```
+
 <!--END_SECTION:waka-->
