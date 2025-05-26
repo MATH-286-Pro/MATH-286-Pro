@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="Picture/2024-RMUL-Shanghai-trimed.jpg" width="95%" height="auto" alt="2024-RMUL-Shanghai">
+  <figcaption> RoboMaster Competition at Shanghai 2024.3.30 17:12</figcaption>
 </div>
 
 <!-- <div style="display: flex; justify-content: center;">
