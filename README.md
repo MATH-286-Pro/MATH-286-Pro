@@ -1,4 +1,4 @@
-### Introduction  
+## Introduction  
 - 2024-now M.S. in Mechanical Engineering (Automation and System) in EPFL
 - 2020-2024 B.S. in Mechanical Engineering in Zhejiang University (ZJU)
 - 2020-2024 ZJUI META RoboMaster Team Mechanical Group member
@@ -38,6 +38,13 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MATH-286-Pro/MATH-286-Pro/output/github-contribution-grid-snake.svg">
 </picture>
 -->
+
+## Skills
+- Robotics: ROS2, STM32, openCV
+- Coding: Python, C, MATLAB, git
+- Design: Fusion360, Solidworks, 3D Print
+
+## Coding
 
 <!--START_SECTION:waka-->
 
