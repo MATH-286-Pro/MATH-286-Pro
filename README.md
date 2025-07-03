@@ -5,7 +5,7 @@
 
 ## Education  
 - 2024-now M.S. in Mechanical Engineering (Automation and Systems) at EPFL
-  - 2025.07-2025.12 Exchange to ETH for quadruped Robot Research at CRL (Computational Robotics Lab)
+  - 2025.07-2025.12 Exchange to ETH for quadruped Robot Research at [CRL](https://crl.ethz.ch/) (Computational Robotics Lab)
 - 2020-2024 B.S. in Mechanical Engineering at Zhejiang University (ZJU)
 - 2020-2024 ZJUI META RoboMaster Team Mechanical Group member
 
@@ -24,7 +24,7 @@
 - [Wheel-legged Robot](https://github.com/MATH-286-Pro/ZJUI-Balance-Infantry-Ver-1.0)
 
 ## Skills
-- Robotics: ROS2, STM32, openCV
+- Robotics: ROS2, STM32, openCV, Isaac Lab, Docker
 - Coding: Python, C, MATLAB, git
 - Design: Fusion360, Solidworks, 3D Print
 
