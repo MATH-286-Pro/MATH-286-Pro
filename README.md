@@ -24,7 +24,7 @@
 - [Wheel-legged Robot](https://github.com/MATH-286-Pro/ZJUI-Balance-Infantry-Ver-1.0)
 
 ## Skills
-- Robotics: ROS2, STM32, openCV, Isaac Lab, Docker
+- Robotics: IsaacLab, ROS2, STM32, openCV, Docker
 - Coding: Python, C, MATLAB, git
 - Design: Fusion360, Solidworks, 3D Print
 
