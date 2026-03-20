@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Picture/2026-CRL-Zurich.jpg" width="95%" height="auto" alt="2024-RMUL-Shanghai">
+  <img src="Picture/2026-CRL-Zurich-trimed.jpg" width="95%" height="auto" alt="2024-RMUL-Shanghai">
   <figcaption> Project Photo at CRL 2026.03.20</figcaption>
 </div>
 
