@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="Picture/2026-CRL-Zurich.jpg" width="95%" height="auto" alt="2024-RMUL-Shanghai">
+  <figcaption> Project Photo at CRL 2026.03.20</figcaption>
+</div>
+
+<div align="center">
   <img src="Picture/2024-RMUL-Shanghai-trimed.jpg" width="95%" height="auto" alt="2024-RMUL-Shanghai">
   <figcaption> RoboMaster Competition at Shanghai 2024.3.30 17:12</figcaption>
 </div>
