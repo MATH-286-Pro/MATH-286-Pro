@@ -25,6 +25,7 @@
 -->
 
 ## Projects
+- [Zero Shot Forward Backward RL on Quadruped Robot](https://github.com/MATH-286-Pro/FB-MEBE)
 - [Legged Robot](https://github.com/MATH-286-Pro/EPFL-MICRO-507-Legged-Robot-Project-2)
 - [Wheel-legged Robot](https://github.com/MATH-286-Pro/ZJUI-Balance-Infantry-Ver-1.0)
 
