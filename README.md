@@ -9,8 +9,9 @@
 </div>
 
 ## Education  
-- 2025.07-2026.03 Exchange to ETH for quadruped Robot Research at [CRL](https://crl.ethz.ch/) (Computational Robotics Lab)
 - 2024-now M.S. in Mechanical Engineering (Automation and Systems) at EPFL
+  - 2026.03 - now Researching whole-body-control project at ETH [PBL](https://pbl.ee.ethz.ch/)
+  - 2025.07 - 2026.03 Researching behavior foundation model for quadruped Robot at ETH [CRL](https://crl.ethz.ch/)
 - 2020-2024 B.S. in Mechanical Engineering at Zhejiang University (ZJU)
 - 2020-2024 ZJUI META RoboMaster Team Mechanical Group member
 
