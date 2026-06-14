@@ -40,18 +40,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 October 2024 - To: 11 June 2026
+From: 09 October 2024 - To: 12 June 2026
 
-Total Time: 1,989 hrs 13 mins
+Total Time: 1,991 hrs 53 mins
 
-Python                             1,468 hrs 14 mins     >>>>>>>>>>>>>>>>>>-------   73.36 %
-Markdown                           131 hrs 9 mins        >>-----------------------   06.55 %
-Bash                               86 hrs 17 mins        >------------------------   04.31 %
-Git                                42 hrs 9 mins         >------------------------   02.11 %
-XML                                24 hrs 45 mins        -------------------------   01.24 %
+Python                             1,469 hrs 48 mins     >>>>>>>>>>>>>>>>>>-------   73.34 %
+Markdown                           131 hrs 18 mins       >>-----------------------   06.55 %
+Bash                               86 hrs 55 mins        >------------------------   04.34 %
+Git                                42 hrs 11 mins        >------------------------   02.11 %
+XML                                25 hrs 1 min          -------------------------   01.25 %
 C++                                14 hrs 1 min          -------------------------   00.70 %
 Text                               12 hrs 19 mins        -------------------------   00.62 %
-Other                              12 hrs 6 mins         -------------------------   00.61 %
+Other                              12 hrs 6 mins         -------------------------   00.60 %
 ```
 
 <!--END_SECTION:waka-->
